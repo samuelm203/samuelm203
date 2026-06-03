@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # 💫 About Me:
 🧑‍💻 I’m currently working on becoming a Software Engineer<br>
 🌱 I’m currently learning the basic of programming<br>
