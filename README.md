@@ -3,7 +3,6 @@
 # 💫 About Me:
 🧑‍💻 I’m currently working on becoming a Software Engineer<br>
 🌱 I’m currently learning the basic of programming<br>
-🫀 I’m looking to collaborate on fun, innovative and creative projects<br>
 
 ---
 
