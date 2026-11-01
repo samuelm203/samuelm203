@@ -1,4 +1,6 @@
-<img src="koi/koi.gif" width="100%" alt="My koi" />
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
 
 ### 💫 About Me:
 🧑‍💻 I’m currently working on becoming an application developer with a focus on backend development<br>
