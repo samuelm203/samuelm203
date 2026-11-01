@@ -2,7 +2,7 @@
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
 
-### 💫 About Me:
+## 💫 About Me:
 🧑‍💻 I’m currently working on becoming an application developer with a focus on backend development<br>
 
 ---
